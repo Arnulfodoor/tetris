@@ -1,6 +1,9 @@
 # Tetris en Python
 
+<img width="310" height="632" alt="image" src="https://github.com/user-attachments/assets/43246b92-ba6a-410a-a3ff-619dd132351c" />
+
 Este es un clon básico del clásico juego **Tetris**, desarrollado en **Python** utilizando la librería **Pygame**.
+
 
 ---
 
